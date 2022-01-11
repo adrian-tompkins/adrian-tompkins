@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @adrian-tompkins
-- 👀 I’m interested in Data Engineering, Machine Learning, [Databricks](https://databricks.com/), [Spark](https://github.com/apache/spark), [DBT](https://github.com/dbt-labs/dbt)
-- 🌱 I’m currently learning Spark internals
-- 💞️ I’m looking to collaborate on [DBT](https://github.com/dbt-labs/dbt)
+
